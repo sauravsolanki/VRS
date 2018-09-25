@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "698529197455",
+    "firebase_url": "https://cuk-vrs.firebaseio.com",
+    "project_id": "cuk-vrs",
+    "storage_bucket": "cuk-vrs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698529197455:android:b7a6708b092fe683",
+        "android_client_info": {
+          "package_name": "com.example.saurav.vrs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698529197455-a85cik5ad1ppmjaim6oak4guq51mknif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saurav.vrs",
+            "certificate_hash": "d2a4b4965f8b9dab3b4c99e095b5944fdbe4af05"
+          }
+        },
+        {
+          "client_id": "698529197455-t70avhg0muq1re38p2o55usaiacc5f4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoUAeGjntoNkU1NEdg5Qyh-KIGIkgxnuY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698529197455-t70avhg0muq1re38p2o55usaiacc5f4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
